@@ -1,5 +1,5 @@
 ---
-title: Cập nhật ít ít về cuộc sống
+title: Cập nhật ít ít về cuộc sống (Phần 0)
 date: 2026-10-01
 image: assets/img/NTU_lake.png
 ---
