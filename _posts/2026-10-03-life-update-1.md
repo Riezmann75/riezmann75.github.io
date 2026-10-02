@@ -1,7 +1,7 @@
 ---
 title: Cập nhật ít ít về cuộc sống (Phần 1)
 date: 2026-10-03
-image: assets/img/question-cloud.jpg
+image: /assets/img/question-cloud.jpg
 ---
 Tôi vẫn nhớ lần đầu tôi viết về chuyện công việc/học tập của mình là vào một buổi sáng trời mưa lã tã. Tôi ngồi một góc bên cái hồ nhỏ trong trường tận hưởng cái sự "gột rửa" cho tâm trí của mình. Bạn có thể tìm đọc về bài viết đó của tôi ở [đây](https://riezmann75.github.io/posts/small-talk-after-6-months/). 
 
